@@ -1,5 +1,5 @@
 # Emotion-Diary
-create emotion-diary understanding React Structuring Components in the project
+create emotion-diary in Korean understanding React Structuring Components in the project
 learning API
 
 # PREVIEW
